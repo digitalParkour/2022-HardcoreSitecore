@@ -14,7 +14,8 @@ const nextConfig = {
     domains: [
       'ocdevops.blob.core.windows.net',
       'cm.hardcore.localhost',
-      '0794-38-124-66-139.ngrok.io'],
+      'ibb.co',
+      '8e80-38-124-66-139.ngrok.io'],
   },
   
 
